@@ -2,11 +2,14 @@
 
 ### I'm javascript developer 
 
-###📫 How to reach me:
+📫 How to reach me:
 
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][FACEBOOK]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][INSTAGRAM]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][TWITTER]
+
+### Languages and tools I'm using: 
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 <!--
 **harleyxx1/harleyxx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
