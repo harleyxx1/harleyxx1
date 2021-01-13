@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[FACEBOOK] = https://www.facebook.com/harlica08
+[FACEBOOK]: https://www.facebook.com/harlica08
