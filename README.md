@@ -12,8 +12,8 @@
 
 ### Languages and tools I'm using: 
 
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][CODE]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][CODE]
 <!--
 **harleyxx1/harleyxx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 [INSTAGRAM]: https://www.instagram.com/dharleyc_/
 [TWITTER]: https://twitter.com/dharleyc_
 
-
+[CODE]: https://github.com/harleyxx1/socmed
