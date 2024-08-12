@@ -1,6 +1,7 @@
 ### Welcome to my Github account 👋
 
-### I'm javascript developer 
+### I'm Harley, a simple React Native developer based on philippines.
+
 
 📫 How to reach me:
 
