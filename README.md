@@ -4,7 +4,7 @@
 
 <br />
 
-📫 How to reach me:
+### 📫 How to reach me:
 
 [<img align="left" alt="Facebook" width="22px" src="https://static-00.iconduck.com/assets.00/facebook-color-icon-2048x2048-bfly1vxr.png" />][FACEBOOK]
 [<img align="left" alt="Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png" />][INSTAGRAM]
@@ -13,7 +13,7 @@
 
 <br />
 
-### Languages and tools I'm using: 
+### 🛠️ Languages and tools I'm using: 
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
