@@ -21,7 +21,9 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][GITHUB]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][HTML]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn1.iconfinder.com/data/icons/soleicons-fill-vol-1/64/reactjs_javascript_library_atom_atomic_react-512.png" />][CSS]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn1.iconfinder.com/data/icons/soleicons-fill-vol-1/64/reactjs_javascript_library_atom_atomic_react-512.png" />][RN]
+[<img align="left" alt="CSS3" width="26px" src="https://www.svgrepo.com/show/354521/vitejs.svg" />][VITE]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-9294852-7577995.png" />][TAILWIND]
 
 <!--
 **harleyxx1/harleyxx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,3 +53,6 @@ Here are some ideas to get you started:
 [GITHUB]: https://github.com/
 [HTML]: https://html.com/
 [CSS]: https://css-tricks.com/
+[RN]: https://reactnative.dev/
+[VITE]: https://vitejs.dev/
+[TAILWIND]: https://tailwindcss.com/
