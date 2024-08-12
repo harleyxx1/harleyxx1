@@ -2,6 +2,8 @@
 
 ### I'm Harley, a simple React Native developer based on philippines.
 
+<br />
+<br />
 
 📫 How to reach me:
 
