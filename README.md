@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 [FACEBOOK]: https://www.facebook.com/harlica08
 [INSTAGRAM]: https://www.instagram.com/dharleyc_/
 [TWITTER]: https://twitter.com/dharleyc_
+[LINKEDIN]: https://www.linkedin.com/in/ding-harley-catubag-7323651a4/
 
 [REACT]: https://reactjs.org/
 [JAVASCRIPT]: https://www.javascript.com/
